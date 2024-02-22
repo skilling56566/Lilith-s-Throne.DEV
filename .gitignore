@@ -1,0 +1,17 @@
+bin/
+data/
+target/
+.*
+*.bak
+*~
+*.old
+*.class
+*.log
+*.iml
+*.jar
+desktop.ini
+nbactions.xml
+dependency-reduced-pom.xml
+
+# Ignore all generic Character images
+res/images/characters/generic/
